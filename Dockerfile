@@ -4,3 +4,5 @@ this is a demo docker file
 
 #integraed jira with github
 #know the token commit process
+
+#GITHUB AND SLACK INTEGRATION WITH JIRA IS A INDUSTRY STANDARD PROJECT
